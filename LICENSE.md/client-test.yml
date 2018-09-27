@@ -4,4 +4,4 @@ spring:
     password: tong
     host: 101.200.44.222
     port: 5672
-test: test5  
+test: test6  
