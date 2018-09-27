@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    username: tong
+    password: tong
+    host: 101.200.44.222
+    port: 5672
+test: test5 
