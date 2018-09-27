@@ -7,4 +7,4 @@ spring:
     name: client
 server:
   port: 10001 
-test: test2005
+test: test2006
